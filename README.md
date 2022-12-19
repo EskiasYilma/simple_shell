@@ -1,4 +1,5 @@
-# 0x16. C - Simple Shell
+# Simple Shell
+![Latest commit](https://img.shields.io/github/last-commit/EskiasYilma/simple_shell?style=round-square)
 
 ## Background Context
 
