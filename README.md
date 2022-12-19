@@ -30,12 +30,6 @@ $
 ```
 ---
 
-## Example
-
-![example](https://www.google.com/url?sa=i&url=https%3A%2F%2Fz24.github.io%2Ftty2gif%2F&psig=AOvVaw377WVid1s69EsOzcFGLZPd&ust=1671524991118000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDOsISihfwCFQAAAAAdAAAAABAD)
-
----
-
 ## Files
 
 File|Description
@@ -131,11 +125,6 @@ $
 
 
 ## Completed Tasks
-
-### 0. README, man, AUTHORS
-* Write a (README)[./README.md]
-* Write a (man)[./man_1_simple_shell] for your shell.
-* You should have an (AUTHORS)[./AUTHORS] file at the root of your repository, listing all individuals having contributed content to the repository.
 
 ### 0. Betty would be proud
 * Write a beautiful code that passes the Betty checks
