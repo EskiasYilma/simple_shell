@@ -45,7 +45,7 @@ int read_token_loop(char **argv, int cmd_cnt, char **env)
 		if (bytes_read > 1)
 		{
 			token = strtok(lineptr, DELIM), tokens[0] = argv[0];
-			for (i = 1; i < 32 && token != NULL; i++)
+			for (i = 1; i < 64 && token != NULL; i++)
 			{
 				tokens[i] = token;
 				token = strtok(NULL, DELIM);

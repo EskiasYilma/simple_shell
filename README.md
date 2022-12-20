@@ -153,6 +153,11 @@ $
 
 ### 5. Simple shell 1.0
 * Implement the env built-in, that prints the current environment
+
+### 8. Simple shell 0.4.1 (partially done)
+* handle arguments for the built-in exit
+* Usage: `exit status`, where `status` is an integer used to exit the shell
+
 ### 10. cd (partially done)
 * Simple shell 1.0 +
 
