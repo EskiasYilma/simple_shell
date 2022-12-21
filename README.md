@@ -1,5 +1,14 @@
-# Simple Shell
+Simple Shell
 ![Latest commit](https://img.shields.io/github/last-commit/EskiasYilma/simple_shell?style=round-square)
+
+---
+
+  _____ _           ___      _                 __   ___ _        _ _
+ |_   _| |_  ___   / __|__ _| |_ ___ ___  ___ / _| / __| |_  ___| | |
+   | | | ' \/ -_) | (_ / _' |  _/ -_|_-< / _ \  _| \__ \ ' \/ -_) | |
+   |_| |_||_\___|  \___\__,_|\__\___/__/ \___/_|   |___/_||_\___|_|_|
+
+---
 
 ## Background Context
 
@@ -174,4 +183,5 @@ Implement the builtin command cd:
 ## Authors
 * **Eskias Yilma** - [EskiasYilma](https://github.com/EskiasYilma)
 * **Rahel Tesfaye** - [RahelPTech](https://github.com/RahelPTech)
+
 
