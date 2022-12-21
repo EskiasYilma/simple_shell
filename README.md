@@ -2,12 +2,7 @@
 ![Latest commit](https://img.shields.io/github/last-commit/EskiasYilma/simple_shell?style=round-square)
 
 ---
-
-  _____ _           ___      _                 __   ___ _        _ _
- |_   _| |_  ___   / __|__ _| |_ ___ ___  ___ / _| / __| |_  ___| | |
-   | | | ' \/ -_) | (_ / _' |  _/ -_|_-< / _ \  _| \__ \ ' \/ -_) | |
-   |_| |_||_\___|  \___\__,_|\__\___/__/ \___/_|   |___/_||_\___|_|_|
-
+![The Gates of Shell](https://m.economictimes.com/thumb/height-450,width-600,imgsize-31162,msid-90711748/a-view-shows-shell-fuel-station-in-saint-petersburg.jpg)
 ---
 
 ## Background Context
