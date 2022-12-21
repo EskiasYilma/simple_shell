@@ -2,7 +2,7 @@
 ![Latest commit](https://img.shields.io/github/last-commit/EskiasYilma/simple_shell?style=round-square)
 
 ---
-![The Gates of Shell](https://m.economictimes.com/thumb/height-450,width-600,imgsize-31162,msid-90711748/a-view-shows-shell-fuel-station-in-saint-petersburg.jpg)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/e4a45426069605.5634f205eae22.gif)
 ---
 
 ## Background Context
